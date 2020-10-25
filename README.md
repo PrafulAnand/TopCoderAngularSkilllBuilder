@@ -26,5 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## install all dependencies
+## Install all dependencies
 navigate to the project directory and run npm install
+For ref how dependencies are resolved with npm install refer this https://dev.to/saurabhdaware/but-what-the-hell-is-package-lock-json-b04#:~:text=json-,package%2Dlock.,the%20%5E%20and%20~%20from%20package.
